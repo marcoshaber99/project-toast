@@ -4,7 +4,7 @@
 node_modules
 .pnp
 .pnp.js
-
+.cursorrules
 # parcel-generated files
 dist
 .parcel-cache
